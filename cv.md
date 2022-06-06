@@ -12,3 +12,18 @@
 
 ## About Me
 At the moment, studying web technologies is a hobby that I do in my free time from my main activity. I get pleasure from solving problems and tangible results.
+
+## Skills
+* HTML
+* CSS/SASS
+* JavaScript (Basic)
+* Git
+
+## Code Example
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
