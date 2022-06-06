@@ -1,1 +1,1 @@
-# rsschool-cv
+https://realrocketrolla.github.io/rsschool-cv/cv
