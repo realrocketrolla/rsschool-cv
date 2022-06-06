@@ -27,3 +27,9 @@ function sum(a, b) {
 
 let result = sum(1, 2);
 alert( result );
+```
+
+## Education
+* __University__: Saint-Petersburg University of Humanities and Social Sciences
+* __Courses__:
+  [Курс "JavaScript/DOM/Интерфейсы" для новичков](https://learn.javascript.ru/courses/jsbasic-20220113/realrocketrolla/ru/certificate.jpg)
