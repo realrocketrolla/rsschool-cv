@@ -1,3 +1,7 @@
+* {
+   box-sizing: border-box;
+ }
+
 html {
    scroll-behavior: smooth; 
 }
@@ -6,6 +10,7 @@ body {
    display: flex;
    flex-direction: column;
    justify-content: space-between;
+   font-size: 20px;
 }
 
 header {
@@ -33,11 +38,13 @@ footer {
 .footer img{
    width: 50px;
    margin: 0px 20px 0px 20px;
+   padding: 5px 0 2px 0;
 }
 
 .container {
    max-width: 1440px;
-   margin: 0 auto;
+   margin: 0 150px;
+   display: flex;
 }
 
 .nav-list {
@@ -65,6 +72,86 @@ footer {
    color: #fff;
 }
 
-.profile img {
+.profile-img {
+   margin: 50px auto;
+}
+
+.profile-img img {
+   border-radius: 7px;
+   width: 80%;
+}
+
+h1 {
+   margin-top: 50px;
+   font-size: 40px;
+   font-weight: 700;
+   text-transform: uppercase;
+   letter-spacing: 5px;
+   text-align: center;
+}
+
+h2 {
+   background-color: #b3b3b3;
+   display: inline-block;
+   vertical-align: top;
+   font-size: 24px;
+   font-weight: 400;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   border-radius: 7px;
+   padding-left: 10px;
+}
+
+h3 {
+   font-size: 24px;
+   font-weight: 400;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   border-radius: 7px;
+   padding-left: 10px;
+}
+
+.profession {
+   text-align: center;
+   margin-bottom: 50px;
+   padding-left: 0;
+}
+
+.name {
+   background-color: #b3b3b3;
    border-radius: 7px;
 }
+
+.left-side {
+   padding: 50px auto;
+}
+
+.right-side {
+   padding: 50px auto;
+}
+
+.violett {
+   color: #b45ea4;
+}
+
+.red {
+   color: #ff00009e;
+}
+
+.green {
+   color: #089c08;
+}
+
+ a {
+   text-decoration: none;
+   color: #b45ea4;
+   transition: color 0.5s;
+}
+
+a:hover {
+   color: #eff624;
+}
+
+@media (max-width: 768px) {
+   
+   }
