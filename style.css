@@ -9,15 +9,15 @@ body {
 }
 
 header {
-   border: 1px solid red
+   background-color: #b3b3b3;
+   max-height: 50px;
 }
 
 main {
-   border: 1px solid red
+   
 }
 
 footer {
-   border: 1px solid red;
    background-color: #b3b3b3;
 }
 
@@ -42,14 +42,14 @@ footer {
 
 .nav-list {
    display: flex;
-   justify-content: flex-end;
+   justify-content: center;
    align-items: center;
    list-style: none;
 }
 
 .nav-link {
    padding: 0 20px;
-   line-height: 50px;
+   line-height: 0px;
    text-decoration: none;
    transition: .3s;
    color: #000;
@@ -62,5 +62,9 @@ footer {
    transition: color 0.5s;
 }
  .nav-list a:hover {
-   color: #29ceebeb;
+   color: #fff;
+}
+
+.profile img {
+   border-radius: 7px;
 }
