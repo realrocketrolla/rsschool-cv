@@ -3,7 +3,7 @@
 ## Junior Frontend Developer
 
 ## My Contact Info
-* Address: Uchebnyy per, Sain-Petersburg, Russia
+* Address: Sain-Petersburg, Russia
 * Phone: +7 952 390 6333
 * E-mail: realrocketrolla@yandex.ru
 * Telegramm: rocketrolla
@@ -31,5 +31,5 @@ alert( result );
 
 ## Education
 * __University__: Saint-Petersburg University of Humanities and Social Sciences
-* __Courses__:
-  [Курс "JavaScript/DOM/Интерфейсы" для новичков](https://learn.javascript.ru/courses/jsbasic-20220113/realrocketrolla/ru/certificate.jpg)
+* __Courses__: 
+  [Course "JavaScript/DOM/interfaces" for begginers](https://learn.javascript.ru/courses/jsbasic-20220113/realrocketrolla/ru/certificate.jpg)
