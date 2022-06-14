@@ -18,6 +18,7 @@ At the moment, studying web technologies is a hobby that I do in my free time fr
 * CSS/SASS
 * JavaScript (Basic)
 * Git
+* English - A2
 
 ## Code Example
 ```
@@ -33,3 +34,6 @@ alert( result );
 * __University__: Saint-Petersburg University of Humanities and Social Sciences
 * __Courses__: 
   [Course "JavaScript/DOM/interfaces" for begginers](https://learn.javascript.ru/courses/jsbasic-20220113/realrocketrolla/ru/certificate.jpg)
+
+## My Projects
+* [Website for renting bicycles, scooters and roller skates](http://www.rentgospb.ru/)
